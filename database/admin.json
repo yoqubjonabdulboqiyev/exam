@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1d40e5f6-124e-43cb-b1ba-213cdd5051e1",
+    "firstName": "Yoqubjon",
+    "phoneNumber": "998940102009",
+    "password": "$2b$12$.785AS/wMz.ZEQ8vRrr9Be0JXv3CGRfe6riIm3ZcbL7b88wytkobG",
+    "photo": "f79481a8-e2e6-4dd7-b6fe-70f4b3f2da10.png"
+  },
+  {
+    "id": "64168d1e-e357-4835-9c36-330f72a2b2a6",
+    "firstName": "Yoqubjon",
+    "phoneNumber": "998940102011",
+    "password": "$2b$12$1rFx8wWXXd1iy.HZdE/PxuoEJfwuglsosMpR6Ov7DfkoWsxCzuRce",
+    "photo": "06cd33e0-5666-494c-a55a-cb8f6a5c6d55.png"
+  },
+  {
+    "id": "786096ed-4906-4417-b58c-0d839ecbef7b",
+    "firstName": "Tom",
+    "phoneNumber": "998940102007",
+    "password": "$2b$12$0HyBz5jk6SJQaNfaEq2EIe4JaERwBr5NuCIdSwWxrVIDQ8c9rXea6",
+    "photo": "c7c19678-10c9-4a24-85a5-e6c19cc9887d.jpg"
+  },
+  {
+    "id": "71a62205-fe5a-4d64-bc34-b959da07777f",
+    "firstName": "Tom",
+    "phoneNumber": "998940102111",
+    "password": "$2b$12$8bdb3/K1vILIfUII34KQxeT8ky72jejjPMG3VyY1HUsrreBpeRYRG",
+    "photo": "d5077f14-583f-45a4-908f-8eec3b27623e.jpg"
+  }
+]
